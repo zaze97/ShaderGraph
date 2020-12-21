@@ -7,8 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Custom_MyShader
-  m_Shader: {fileID: 4800000, guid: 56fb023ef0088b54bbefba0d26998ec0, type: 3}
+  m_Name: "Shader Graphs_\u9ED1\u8272\u6D88\u9690"
+  m_Shader: {fileID: -6465566751694194690, guid: 5fa414b836401d542a356867bdc8956d,
+    type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -19,22 +20,14 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _2D:
-        m_Texture: {fileID: 0}
+    - Texture2D_4FDECF80:
+        m_Texture: {fileID: 2800000, guid: f73ee1aaebe7d1a46a0ba8589767f8ca, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _3D:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Cube:
-        m_Texture: {fileID: 0}
+    - Texture2D_91021C45:
+        m_Texture: {fileID: 2800000, guid: 338ffb0add09a484488fa8a56a337474, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Float: 1.5
-    - _Int: 2
-    - _Range: 3
-    m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Vector: {r: 2, g: 3, b: 6, a: 1}
+    - Vector1_425ACFEB: 0.2
+    m_Colors: []
